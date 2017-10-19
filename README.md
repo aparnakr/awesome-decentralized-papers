@@ -59,6 +59,9 @@ change order of sections - add ones for bitcoin-->
 - **The Honey Badger of BFT Protocols** (2016), A. Miller et al. [[pdf]](https://eprint.iacr.org/2016/199.pdf)
 - **Power Fault Tolerance** (2017), Protocol Labs [[pdf]](http://filecoin.io/power-fault-tolerance.pdf)
 - **Practical Byzantine Fault Tolerance** (1999), M. Castro et al. [[pdf]](http://pmg.csail.mit.edu/papers/osdi99.pdf)
+- **Algorand: Scaling Byzantine Agreements for Cryptocurrencies** (2017), Gilad, Yossi, et al. [[pdf]](https://people.csail.mit.edu/nickolai/papers/gilad-algorand-eprint.pdf)
+- **Ouroboros: A provably secure proof-of-stake blockchain protocol** (2017), Kiayias, Aggelos, et al.[[pdf]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi6ptf6-fvWAhXphVQKHe0UC0YQFggmMAA&url=https%3A%2F%2Feprint.iacr.org%2F2016%2F889.pdf&usg=AOvVaw20FGyP7yNgPjjEqtl9txpG)
+
 
 ### [Prediction Markets](#prediction-markets)
 - **On Decentralizing Prediction Markets and Order Books** (2014), J. Clark et al. [[pdf]](http://www.econinfosec.org/archive/weis2014/papers/Clark-WEIS2014.pdf)
@@ -80,6 +83,8 @@ change order of sections - add ones for bitcoin-->
 - CS251, Bitcoin and Cryptocurrencies, Stanford University [[web]](https://crypto.stanford.edu/cs251/)
 - Bitcoin and Cryptocurrency Technologies, Princeton University (Coursera) [[web]](https://www.coursera.org/learn/cryptocurrency)
 - 08-303, Cryptocurrencies, Blockchains, and Applications, Carnegie Mellon University [[web]](https://piazza.com/cmu/spring2017/08303)
+- Blockchain Fundamentals, UC Berkeley [[web]](https://blockchain.berkeley.edu/decal/fa17/fund/)
+- Blockchain for Developers, UC Berkeley [[web]](https://blockchain.berkeley.edu/decal/fa17/dev/)
 
 <!-- *(Tutorials)*
 - NIPS 2016 Tutorials, Long Beach [[web]](https://nips.cc/Conferences/2016/Schedule?type=Tutorial)
